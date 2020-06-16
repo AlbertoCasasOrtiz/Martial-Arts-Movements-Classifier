@@ -4,7 +4,7 @@ This Google Colab Notebook has been created for create classifiers of martial ar
 
 ## Dataset
 
-The dataset has been captured using the sensors of an android device. It consist in a collection of CSV files, each one containing a set of columns defining the different sequences measures (Acceleration, rotation, magnetic field...).
+The dataset has been captured using the sensors of an android device. It consist in a collection of CSV files, each one containing a set of columns defining the different sequences measures (Acceleration, rotation, magnetic field...). The dataset have been captured using [Motion Recorder Android](https://github.com/AlbertoCasasOrtiz/Motion-Recorded-Android).
 
 This notebook should work with any dataset consisting in CSV files containing data organized in columns.
 
